@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deadpresident0
 - 👀 Problem Child
-- My name is thier problem
+- My name is their problem
 
 <!---
 deadpresident0/deadpresident0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
